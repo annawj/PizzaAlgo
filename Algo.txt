@@ -1,0 +1,12 @@
+Decide where you want to get your pizza from
+Pull up the menu
+    Choose pizza style  
+    Choose the pizza that you want 
+    Choose your toppings 
+Choose how to order 
+    Decide online order 
+    use order form 
+    or decide call
+    or decide in person
+Pick up the phone 
+Find contact info 
