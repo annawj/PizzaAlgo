@@ -1,12 +1,18 @@
+Steps to order a pizza:
 Decide where you want to get your pizza from
 Pull up the menu
     Choose pizza style  
     Choose the pizza that you want 
     Choose your toppings 
 Choose how to order 
-    Decide online order 
+    Online order 
     use order form 
     or decide call
     or decide in person
-Pick up the phone 
-Find contact info 
+Choose how to recieve Pizza
+    delivery 
+    pickup
+    eat in 
+Find contact info for pizza restaurant 
+Make payment for Pizza 
+Enjoy!
